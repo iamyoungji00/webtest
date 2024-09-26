@@ -1,0 +1,296 @@
+2일차부터
+-구글드라이브로그인
+-내드라이브 코랩 사본 더블클릭
+-jsbin, w3school, 열어놓기
+
+A. 체크리스트, 수업자료
+1. 2024.09.25~27 서울시인재개발원 최신자바스크립트과정  체크리스트
+https://forms.gle/ujydyvPNsBSG85si9
+
+2. 수업자료 
+1) 다운로드 사이트
+수업파일 다운로드 위치 - https://github.com/probemedia/web
+다운로드파일 - 2024_web.zip
+
+
+3. 공유소스코드 :  testweb.ipynb
+https://colab.research.google.com/drive/1uKKTu-pZVlfF62ZRCh7l7b-Irv2HqqEc?usp=sharing
+
+B. 클라우드 기반 에디터 툴, 실행환경 및 학습사이트
+
+1. 클라우드기반 주피터노트북 Google Colab, https://colab.research.google.com/?hl=ko
+1-1 Google Colab에서 html 실행
+%%html 매직을 셀의 첫줄에 입력 후 사용
+예시)
+%%html
+<h1>Hello, Colab!</h1>
+<p>This is a paragraph.</p>
+
+
+<h1> #
+<h2> ##
+<h3> ###
+
+2. 각종 프로그래밍 언어 기본문법과 실행 에디터 w3schools.com, https://www.w3schools.com/
+
+3. 온라인 프로그래밍 실행 에디터 : 화면 입출력 가능- R, Python, C++
+https://www.mycompiler.io/ko/new/cpp
+
+4. 웹 프로그래밍 코딩 기능 제공,  https://jsbin.com/
+
+5. 다양한 무료 학습사이트 - 프로그래밍, 각종코스
+Coursera, https://www.coursera.org/
+Udemy, https://www.udemy.com/ko/
+Khan Academy, https://ko.khanacademy.org/
+
+6. 코드작성 도움 생성 AI
+6-1. OpenAI ChatGPT, https://openai.com/blog/chatgpt/
+
+6-2. Google Gemini, https://gemini.google.com/?hl=ko
+
+6-3. Microsoft Copilot, https://copilot.microsoft.com/
+
+7. 깃허브 웹사이트 배포: 
+7-1. 깃허브 가입
+❶ https://github.com/ 에서 [Sign in] 클릭.
+- [Sign in] : 로그인. 로그인시 아이디, 패스워드 입력 후 [Sign in] 버튼 클릭
+- [Create account] : 회원가입. 회원가입시 [Create account]링크 클릭
+❷ 화면이 전환되면 이메일 주소 입력 후 나머지 정보 입력하고 [Create account]버튼 클릭
+- Enter your email : 보안코드를 전송받을 이메일 입력.
+- Create a password : password입력, 이메일주소의 비밀번호와 다른 비밀번호 사용 권장.
+- Enter a username : username은 아이디. 깃허브에서 사용할 아이디명을 입력.
+- Email preferences : github 업데이트 및 공지 등을 메일로 수신할지 여부. 선택안함
+❸ 회원가입시 입력한 이메일로 받은 인증코드를 입력
+❹ Welcom to Github 에서 깃허브를 어떤 목적, 사용인원 수 체크 후 [Continue]버튼 클릭, 무료/유료사용 선택화면에서 무료사용인 [Continue for free]버튼 클릭
+❺ 저장소 생성시 [Repository]클릭, [New]클릭
+
+7-2. github 레포지터리에서 웹서비스 : 회원가입 후 로그인해서 사용
+❶ github Repository에서 [New]를 눌러 이름입력후 새로운 레포지터리 생성
+❷ index.html 업로드 또는 생성
+❸ [settings]클릭
+❹ 왼쪽의 [Pages]항목 선택, [Brench]항목의 [None]을 클릭해서 [main]선택
+❺ 잠시후 [GitHub Pages]에 웹페이지 배포 주소가 표시됨. 해당링크로 이동하면 웹페이지가 서비스되어 표시됨
+
+C. 서버사이드 확장을 고려한 자바기반 세팅
+1. java17 다운로드 사이트,  https://www.oracle.com/java/technologies/downloads/
+
+2.
+ PATH 
+ C:\Program Files\Java\jdk-17\bin
+
+3.
+ JAVA_HOME
+ C:\Program Files\Java\jdk-17
+
+4. Tomcat 다운로드 사이트,  http://tomcat.apache.org
+
+5.
+ CATALINA_HOME
+ C:\apache-tomcat-10.1.5 또는 C:\apache-tomcat-9.0.72 
+
+6. Eclipse 버전별 다운로드 위치, https://www.eclipse.org/downloads/packages/release
+
+
+D. 소스이미지 & 소스파일 경로
+
+https://probemedia.github.io/webtest
+
+p1_s.png
+https://probemedia.github.io/studyhtml5/ch03/p1_s.png
+
+p2_s.png
+https://probemedia.github.io/studyhtml5/ch03/p2_s.png
+
+img_cont.html
+https://probemedia.github.io/studyhtml5/ch03/img_cont.html
+
+picture2.png
+https://probemedia.github.io/studyhtml5/ch03/picture2.png
+
+3장
+https://probemedia.github.io/studyhtml5/ch03/
+
+4장
+https://probemedia.github.io/studyhtml5/ch04/
+
+https://probemedia.github.io/studyhtml5/
+
+5장
+https://probemedia.github.io/studyhtml5/ch05/
+
+https://probemedia.github.io/studyhtml5/
+
+6장
+https://probemedia.github.io/studyhtml5/ch06/
+
+https://probemedia.github.io/studyhtml5/
+
+
+
+E. 생성AI활용 반응형 웹사이트 작성
+1. index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Festival</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- 네비게이션 바 -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Festival</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="ticket.html">Tickets</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="gallery.html">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 메인 배너 -->
+    <section class="hero bg-dark text-white text-center p-5">
+        <div class="container">
+            <h1 class="display-4">Join the Festival!</h1>
+            <p class="lead">Experience the ultimate festival of music, art, and culture.</p>
+            <a href="ticket.html" class="btn btn-primary">Buy Tickets</a>
+        </div>
+    </section>
+
+    <!-- 페스티벌 소개 -->
+    <section class="about py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>About the Festival</h2>
+                    <p>The festival offers an unforgettable experience with live music, amazing performances, and unique art displays. Don't miss out on the fun and excitement!</p>
+                </div>
+                <div class="col-md-6">
+                    <img src="img/festival.jpg" class="img-fluid" alt="Festival">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 일정 섹션 -->
+    <section class="schedule py-5 bg-light">
+        <div class="container text-center">
+            <h2>Festival Schedule</h2>
+            <p>Here are the dates and events you can't miss!</p>
+            <ul class="list-group">
+                <li class="list-group-item">Day 1: Opening Ceremony</li>
+                <li class="list-group-item">Day 2: Live Performances</li>
+                <li class="list-group-item">Day 3: Art Exhibitions</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- 푸터 -->
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2024 Festival. All rights reserved.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+2. ticket.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buy Tickets</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- 네비게이션 바 -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Festival</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Tickets</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="gallery.html">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 티켓 정보 -->
+    <section class="tickets py-5">
+        <div class="container text-center">
+            <h2>Buy Your Tickets</h2>
+            <p>Choose the ticket type that suits you best!</p>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <h5 class="card-title">Day Pass</h5>
+                            <p class="card-text">$50</p>
+                            <a href="#" class="btn btn-primary">Buy Now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <h5 class="card-title">Weekend Pass</h5>
+                            <p class="card-text">$120</p>
+                            <a href="#" class="btn btn-primary">Buy Now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <h5 class="card-title">VIP Pass</h5>
+                            <p class="card-text">$250</p>
+                            <a href="#" class="btn btn-primary">Buy Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2024 Festival. All rights reserved.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+
