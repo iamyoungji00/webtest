@@ -1,0 +1,122 @@
+9.26추가내용
+
+
+1. 
+ div{
+   width: 200px;
+   height: 100px; 
+   background-color: blue;
+ }
+   div:hover{/*<div>태그에 마우스포인터가 들어오면*/
+   box-shadow: 10px 10px 5px #888888;/*영역에 그림자 지정*/
+ }
+
+2. html, CSS, JS동작구조
+2-0. html
+<body>
+<div id="header">
+  <h1>우리기관</h1>
+  <div id="nav">
+    <ul>
+      <li><a id="a1" href="#">기관소개</a></li>
+      <li><a id="a2" href="#">행정안내</a></li>
+      <li><a id="a3" href="#">정보공개</a></li>
+    </ul>
+  </div>
+</div>
+<div id="content">
+  <p>내용</p>
+</div>
+<div id="footer">
+  <p>찾아오시는 길</p>
+</div>
+<script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+</body>
+2-1. css_menu.css
+@charset "UTF-8";
+
+body{
+  background-color: white ;
+} 
+div{
+  margin: 0.5% 0 0.5% 0;
+  padding: 0.5% 0 0.5% 0;
+}
+div#header{
+  width : 100%;
+  height : 20%;
+}
+div#nav{/*네비게이션바 - 너비, 높이, 배경색*/
+   width : 100%;
+   height : 100%;
+   background-color : #c0c0c0;
+}
+div#content{
+  width : 100%;
+  height : 60%;
+}
+div#footer{
+  width : 100%;
+  height : 20%;
+  padding : 10px;
+  background-color : #c0c0c0;
+}
+
+ul{/*<ul>태그에 적용*/
+   /*블릿기호 제거*/
+   list-style-type : none; 
+   padding : 5px;
+}
+
+ul li{/*<ul><li>태그에 적용*/
+   /*목록을 왼쪽에서 오른쪽으로 배치: 수평배치*/
+   display : inline;
+   margin : 5px;
+}
+
+ul li a{/*<ul><li><a>태그에 적용*/
+   /*글자색-검정, 밑줄제거*/
+   color : black; /*글자색-검정*/
+   text-decoration : none; /*밑줄제거*/
+}
+
+  ul li a:hover{/*<ul><li><a>태그에 마우스포인터가 위치하면*/
+   color : white; /*글자색-흰색*/
+}
+
+2-3. js
+$(document).ready(function(){
+    $("#a1").click(function(){
+      $("#content").show();
+	  $("#content").load("https://probemedia.github.io/studyhtml5/res/intro_01.txt");
+    });
+    $("#a2").click(function(){
+      $("#content").show();
+	  $("#content").load("https://probemedia.github.io/studyhtml5/res/intro_02.txt");
+    });
+    $("#a3").click(function(){
+	  $("#content").hide();
+    });
+  
+});
+
+2-4. jquery 라이브러리추가
+<script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+2-5. <a>태그에 id 추가
+
+3. git 레포지터리 삭제
+- Settings
+- General, 스크롤 끝까지 내려서 Danger Zone으로 이동
+- [Delete this repository]버튼 클릭
+
+
+9.27추가내용
+https://github.com/iamyoungji00/webtest
+
+1. ChatGPT에 질문하기 https://openai.com/blog/chatgpt/ 
+페스티벌을 홍보하는 웹앱을 만들어줘. UI는 bootstrap을 사용해서 반응형웹으로 작성해줘
+
+2. 이미지 생성 https://www.artguru.ai/kr/
+
+3. 내 웹사이트에 업로드
+
